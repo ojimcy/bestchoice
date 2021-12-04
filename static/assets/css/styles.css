@@ -828,3 +828,62 @@ body {
     border-radius: 0;
     border: none;
     }
+
+    #shortcode-2e980c808a3363b30353f122aaa4f2dc {
+      background-image: url(/static/assets/images/front.jpeg);
+      background-size: cover;
+      background-position: center;
+      padding: 140px 0px 120px 0px;
+    }
+    #shortcode-2e980c808a3363b30353f122aaa4f2dc .overlay-color {
+      background-color: #000;
+      opacity: 0.35;
+    }
+    @media only screen and (max-width: 768px) {
+      #shortcode-2e980c808a3363b30353f122aaa4f2dc {
+      }
+    }
+    #shortcode-aa842275078d9bd99f21ecdc36a2eea4 {
+      background-size: cover;
+      background-position: center;
+      padding: 100px 0px 100px 0px;
+    }
+    #shortcode-aa842275078d9bd99f21ecdc36a2eea4 .overlay-color {
+    }
+    @media only screen and (max-width: 768px) {
+      #shortcode-aa842275078d9bd99f21ecdc36a2eea4 {
+      }
+    }
+    #shortcode-b682299de40393d22ed848d7f9a08be9 {
+      background-size: cover;
+      background-position: center;
+      padding: 100px 0px 100px 0px;
+    }
+    #shortcode-b682299de40393d22ed848d7f9a08be9 .overlay-color {
+    }
+    @media only screen and (max-width: 768px) {
+      #shortcode-b682299de40393d22ed848d7f9a08be9 {
+      }
+    }
+    #shortcode-9839631e1126135ab800b0168346d516 {
+      background-size: cover;
+      background-position: center;
+      padding: 100px 0px 100px 0px;
+    }
+    #shortcode-9839631e1126135ab800b0168346d516 .overlay-color {
+    }
+    @media only screen and (max-width: 768px) {
+      #shortcode-9839631e1126135ab800b0168346d516 {
+      }
+    }
+    #shortcode-43beb77e2d230a3828279922b3c1d114 {
+      background-size: cover;
+      background-position: center;
+      padding: 100px 0px 100px 0px;
+    }
+    #shortcode-43beb77e2d230a3828279922b3c1d114 .overlay-color {
+    }
+    @media only screen and (max-width: 768px) {
+      #shortcode-43beb77e2d230a3828279922b3c1d114 {
+      }
+    }

@@ -828,3 +828,7 @@ body {
     border-radius: 0;
     border: none;
     }
+
+    .single-product-price {
+      margin-right: 60px;
+    }
